@@ -158,7 +158,6 @@ int main() {
                 if (!graphCreated) { std::cout << "Please create graph first.\n"; break; }
                 std::string filename = "graph.dot";
                 alGraph.exportDOT(filename);
-                std::cout << "Graph exported to " << filename << "\n";
                 break;
             }
             default:

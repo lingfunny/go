@@ -52,7 +52,9 @@ BFS Traversal: BFS Traversal Order: 1 6 20 12 14 4 17 16 21 22 9 2 19 13 5 24 3 
 BFS Spanning Tree Edges: (1, 6) (1, 20) (1, 12) (1, 14) (1, 4) (1, 17) (6, 16) (6, 21) (6, 22) (20, 9) (12, 2) (12, 19) (14, 13) (14, 5) (4, 24) (17, 3) (17, 25) (17, 10) (16, 7) (22, 23) (22, 8) (19, 18) (5, 11) (10, 15)
 ```
 
-生成的生成树可视化 (Graphviz)：
+可视化 (Graphviz)：
+
+![graph](./svgs/graph.svg)
 
 ![dfs_tree](./svgs/dfs_tree.svg)
 
